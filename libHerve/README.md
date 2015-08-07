@@ -1,6 +1,6 @@
-libHerve
+# libHerve
 
-DESCRIPTION:
+## DESCRIPTION:
 Static library for developping VR application.
 Features: 
     3D rendering (OpenGL, GLSL)
@@ -12,18 +12,19 @@ Features:
     animation: spline path
     navigation: walkthrough camera
 
-DEPENDENCIES:
+## DEPENDENCIES:
 gl glu glew, glm
 libpng 
 libvlc
 openal, alure
 
-BUILD (linux):
+## BUILD (linux):
+``` 
 make
+``` 
 
-BUILD (freebsd):  
+## BUILD (freebsd):  
+``` 
 gmake CXX=clang++
+``` 
 
-AUTHOR:
-Julien Dehos
-http://www-lisic.univ-littoral.fr/~dehos

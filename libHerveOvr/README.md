@@ -1,19 +1,18 @@
-libHerveOvr
+# libHerveOvr
 
-DESCRIPTION:
+## DESCRIPTION:
 Oculus rift support for libHerve.
 Includes Oculus Rift SDK 0.2.4.
 
-DEPENDENCIES:
+## DEPENDENCIES:
 libHerve
 libudev
 xinerama
 x11
 
-BUILD (linux):
+## BUILD (linux):
+```
 make
-cp 90-oculus.rules /etc/udev/rules.d/
+sudo cp 90-oculus.rules /etc/udev/rules.d/
+```
 
-AUTHOR:
-Julien Dehos
-http://www-lisic.univ-littoral.fr/~dehos

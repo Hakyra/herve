@@ -1,30 +1,35 @@
-DemoGtkmm
+# DemoGtkmm
 
-DESCRIPTION
+## DESCRIPTION
 This demo is just a proof-of-concept for developping a VR application + control window with the herve library.
 
-DEPENDENCIES
+## DEPENDENCIES
 gtkmm
 gtkglextmm
 libHerve
 ...
 
-BUILD (linux):
+## BUILD (linux):
 build libHerve 
+```
 make
+```
 
 NOTE FOR UBUNTU USER : 
 if you get this error: Inconsistency detected by ld.so: ...
-then try: make clean; make LDFLAGS=-L/usr/lib/nvidia-304/ # check version
+then try: 
+```
+make clean; make LDFLAGS=-L/usr/lib/nvidia-304/ # check version
+```
 
-BUILD (freebsd):  
+## BUILD (freebsd):  
+```
 build libHerve
 gmake CXX=clang++
+```
 
-RUN:
+## RUN:
+```
 cd bin
 ./DemoGtkmm.out
-
-AUTHOR:
-Julien Dehos
-http://www-lisic.univ-littoral.fr/~dehos
+```
