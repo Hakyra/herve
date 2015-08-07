@@ -1,0 +1,162 @@
+# Blender MTL File: 'sibenik_lux.blend'
+# Material Count: 16
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.006787 0.134359 0.013088
+Ks 0.115385 0.115385 0.115385
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl kamen_zid_kamen.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_kamen.png
+map_Ka texture_kamen.png
+
+newmtl kamen_zid_parapet_KAMEN-stup.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_KAMEN-stup.png
+map_Ka texture_KAMEN-stup.png
+
+newmtl kamen_zid_prozor_kamen.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_kamen.png
+map_Ka texture_kamen.png
+
+newmtl pod_mramor6x6.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.363219 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_mramor6x6.png
+map_Ka texture_mramor6x6.png
+
+newmtl pod_rub_kamen.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_kamen.png
+map_Ka texture_kamen.png
+
+newmtl pod_tepih
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.279692 0.112439 0.094168
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl rozeta_KAMEN-stup.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_KAMEN-stup.png
+map_Ka texture_KAMEN-stup.png
+
+newmtl sprljci
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl staklo
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.784314 0.784314 0.784314
+Ni 1.000000
+d 0.100000
+illum 2
+
+newmtl staklo_crveno
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.225882 0.053208 0.025098
+Ks 0.882353 0.207843 0.098039
+Ni 1.000000
+d 0.800000
+illum 2
+
+newmtl staklo_plavo
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.021083 0.037145 0.200785
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl staklo_zeleno
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.017066 0.161631 0.019074
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl staklo_zuto
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.256000 0.227890 0.002008
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl stupovi_KAMEN-stup.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_KAMEN-stup.png
+map_Ka texture_KAMEN-stup.png
+
+newmtl zid_vani_kamen.png
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.375868 0.374061 0.345148
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_kamen.png
+map_Ka texture_kamen.png
