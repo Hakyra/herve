@@ -15,7 +15,7 @@ Features:
 ## DEPENDENCIES:
 gl glu glew, glm
 libpng 
-libvlc
+libvlc, vlc-plugin-sdl
 openal, alure
 
 ## BUILD (linux):
